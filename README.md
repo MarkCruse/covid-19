@@ -1565,11 +1565,7 @@ confirm_US_df = confirm_US_df[['state','Lat','Long','confirmed']].copy()
 confirm_US_df[['state','confirmed']].sort_values(by= ['confirmed'], ascending=False).style.hide_index()
 ```
 
-
-
-
-<style  type="text/css" >
-</style><table id="T_ed5d74ee_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >confirmed</th>    </tr></thead><tbody>
+<table id="T_ed5d74ee_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >confirmed</th>    </tr></thead><tbody>
                 <tr>
                                 <td id="T_ed5d74ee_686b_11ea_b34d_acbc328f6cc1row0_col0" class="data row0 col0" >New York</td>
                         <td id="T_ed5d74ee_686b_11ea_b34d_acbc328f6cc1row0_col1" class="data row0 col1" >967</td>
@@ -1990,11 +1986,7 @@ recover_US_df = recover_US_df[['state','Lat','Long','recovered']].copy()
 recover_US_df[['state','recovered']].sort_values(by= ['recovered'], ascending=False).style.hide_index()
 ```
 
-
-
-
-<style  type="text/css" >
-</style><table id="T_ed70271a_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >recovered</th>    </tr></thead><tbody>
+<table id="T_ed70271a_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >recovered</th>    </tr></thead><tbody>
                 <tr>
                                 <td id="T_ed70271a_686b_11ea_b34d_acbc328f6cc1row0_col0" class="data row0 col0" >California</td>
                         <td id="T_ed70271a_686b_11ea_b34d_acbc328f6cc1row0_col1" class="data row0 col1" >6</td>
@@ -2416,11 +2408,7 @@ deaths_US_df = deaths_US_df[['state','Lat','Long','deaths']].copy()
 deaths_US_df[['state','deaths']].sort_values(by= ['deaths'], ascending=False).style.hide_index()
 ```
 
-
-
-
-<style  type="text/css" >
-</style><table id="T_ed88e020_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >deaths</th>    </tr></thead><tbody>
+<table id="T_ed88e020_686b_11ea_b34d_acbc328f6cc1" ><thead>    <tr>        <th class="col_heading level0 col0" >state</th>        <th class="col_heading level0 col1" >deaths</th>    </tr></thead><tbody>
                 <tr>
                                 <td id="T_ed88e020_686b_11ea_b34d_acbc328f6cc1row0_col0" class="data row0 col0" >Washington</td>
                         <td id="T_ed88e020_686b_11ea_b34d_acbc328f6cc1row0_col1" class="data row0 col1" >48</td>

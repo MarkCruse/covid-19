@@ -1,6 +1,11 @@
 # covid-19
 An analysis of John Hopkins University COVID-19 time series data.
 
+The information below is the Jupyter notebook, contained in this repository, converted to markdown.
+
+---
+
+
 ## Analysis of Coronavirus (COVID-19) Pandemic Data 
 
 The purpose of the notebook is to evaluate the coronavirus (COVID-19) data provided by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU).  This workbook only evaluates the time series dataset provided by JHU-CSSE.

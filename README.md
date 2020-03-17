@@ -68,23 +68,6 @@ state_abbr_fips_df = pd.read_csv('state_abbr_fips.csv', header=None, dtype=objec
 state_abbr_fips_df.head(15)
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">

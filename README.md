@@ -1553,7 +1553,7 @@ confirm_US_df_timeline.head()
 
 
 
-#### Simplify the datafram containing the US confirmed cases
+#### Simplify the dataframe containing the US confirmed cases
 
 
 ```python
@@ -3900,7 +3900,7 @@ states_df_plot[['confirmed']].head(10).plot(kind='barh').invert_yaxis()
 ```
 
 
-![png](output_47_0.png)
+![png](images/output_47_0.png)
 
 
 
@@ -4015,7 +4015,7 @@ plt.show;
 
 
 
-![png](output_52_1.png)
+![png](images/output_52_1.png)
 
 
 
